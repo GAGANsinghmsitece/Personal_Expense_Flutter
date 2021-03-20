@@ -1,6 +1,6 @@
-# Meals
+# Personal Expense App
 
-A Meal App created using flutter.
+A Personal Expense App created using flutter.
 
 ## Preview
 Here are some screenshots of how this app will look like,
